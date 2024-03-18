@@ -18,4 +18,4 @@ This repository is dedicated to learning SwiftUI, Apple's modern framework for b
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/narendraiosd7/swiftui-learning.git
+   git clone https://github.com/narendraiosd7/SwiftUI_Sage.git
